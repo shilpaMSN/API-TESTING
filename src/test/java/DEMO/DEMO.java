@@ -11,7 +11,7 @@ public class DEMO {
 		
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
-//		System.out.println("DEMO1");
+		System.out.println("DEMO1");
 //		System.out.println("added develop branch1");
 		
 	}
